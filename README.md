@@ -1,0 +1,1 @@
+This is a rock paper scissors project for The Odin Project utilizing Javascript and other client side languages.
