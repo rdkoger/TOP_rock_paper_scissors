@@ -1,1 +1,1 @@
-This is a rock paper scissors project for The Odin Project utilizing Javascript and other client side languages.
+This is a rock paper scissors project for The Odin Project utilizing Javascript and other client side languages. In order to create this game I referenced "Traversy Media - Rock Paper Scissors Game -UI & Javascript" from Youtube. I added a few extra lines of Javascript for clearing the modal on a timer if window is not clicked and creating a new display for when the Computer or Player reaches 5 wins.
